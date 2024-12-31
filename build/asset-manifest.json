@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.de87abce.css",
+    "main.js": "/static/js/main.050f07f9.js",
+    "static/js/453.f2621980.chunk.js": "/static/js/453.f2621980.chunk.js",
+    "static/media/delysium.jpg": "/static/media/delysium.ee6bd0aa1b1b77a2ca5a.jpg",
+    "static/media/angelic.png": "/static/media/angelic.748d1057bdc6c1fa6ad2.png",
+    "static/media/eldenring.jpg": "/static/media/eldenring.84353acf8bb133282fb9.jpg",
+    "static/media/dmc5.jpg": "/static/media/dmc5.88f85674ae16500f9956.jpg",
+    "static/media/Logo2.png": "/static/media/Logo2.a6ea888bb7e9fedd2433.png",
+    "static/media/ghostoftsushima.jpg": "/static/media/ghostoftsushima.16110eb1c966fd9d3555.jpg",
+    "static/media/aevitas.png": "/static/media/aevitas.1e4cf383b0cf7d42183b.png",
+    "static/media/infamous.jpg": "/static/media/infamous.2050ebb24a96c0e1f2b5.jpg",
+    "static/media/theWitcher.jpg": "/static/media/theWitcher.0a5624a22aa37de5536a.jpg",
+    "static/media/halo.jpg": "/static/media/halo.7f6410f2af9f2fb0a594.jpg",
+    "static/media/gangshi.jpg": "/static/media/gangshi.7ed3edf4649ee164ff60.jpg",
+    "static/media/sekiro.jpg": "/static/media/sekiro.dee83db5a6dcee8ae19d.jpg",
+    "index.html": "/index.html",
+    "main.de87abce.css.map": "/static/css/main.de87abce.css.map",
+    "main.050f07f9.js.map": "/static/js/main.050f07f9.js.map",
+    "453.f2621980.chunk.js.map": "/static/js/453.f2621980.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de87abce.css",
+    "static/js/main.050f07f9.js"
+  ]
+}
